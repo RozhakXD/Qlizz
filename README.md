@@ -1,5 +1,5 @@
 # Perintah :
-    $ pkg update && upgrade
+    $ pkg update && pkg upgrade
     $ pkg install git
     $ pkg install python3
     $ git clone https://github.com/RozhakXD/Qlizz
