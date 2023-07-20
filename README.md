@@ -17,7 +17,7 @@
 ##
 
 ### What is Qlizz?
-[**Qlizz**](https://github.com/RozhakXD/Qlizz) is a tool to get followers on Instagram accounts for free and without logging in. Qlizz is also very easy and takes only seconds for all followers to arrive.
+[**Qlizz**](https://github.com/RozhakXD/Qlizz) is a script to get followers on Instagram accounts for free and without logging in. Qlizz is also very easy and takes only seconds for all followers to arrive.
 
 ### Termux command?
 First you must have the [Termux](https://f-droid.org/repo/com.termux_118.apk) application to run this tool and for how to use it can be seen on [**Youtube**](https://youtube.com/rozhakid). Then you enter some basic commands below!
