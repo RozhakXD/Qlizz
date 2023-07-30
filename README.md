@@ -39,6 +39,7 @@ $ python Run.py
 
 ### Why failed to login?
 
+- You must enter a fake password if asked to enter your Instagram account password.
 - Maybe you haven't entered your username before getting cookies.
 - You see no way to get cookies on youtube.
 - The cookies you are using have expired. Each cookies is valid only every 3 days.
